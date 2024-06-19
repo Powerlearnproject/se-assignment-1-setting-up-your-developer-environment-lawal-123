@@ -52,3 +52,25 @@ Submit your document and GitHub repository link through the designated platform 
 - Adherence to submission guidelines and deadlines.
 
 Note: Feel free to reach out for clarification or assistance with any aspect of the assignment.
+
+Answers:
+Certainly! Let’s break down the tasks for setting up your developer environment:
+
+Select Your Operating System (OS):
+Choose an OS that suits your preferences and project requirements. You can download and install Windows 11 from here.
+Install a Text Editor or IDE:
+For coding, choose a suitable text editor or IDE. I recommend downloading and installing Visual Studio Code.
+Set Up Version Control System:
+Install Git and configure it on your local machine. Create a GitHub account for hosting repositories. Initialize a Git repository for your project and make your first commit on GitHub.
+Install Necessary Programming Languages and Runtimes:
+Install Python from Python’s official website. Also, install any other programming languages or runtimes you need.
+Install Package Managers:
+If applicable, install package managers like pip (for Python).
+Configure a Database (MySQL):
+Download and install MySQL database from here.
+Set Up Development Environments and Virtualization (Optional):
+Consider using tools like Docker or virtual machines to isolate project dependencies and ensure consistent environments.
+Explore Extensions and Plugins:
+Enhance functionality by exploring available extensions and plugins for your chosen text editor or IDE.
+Document Your Setup:
+Create a comprehensive document with step-by-step instructions, screenshots, and any troubleshooting steps encountered during setup.
